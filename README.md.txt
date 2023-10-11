@@ -1,0 +1,1 @@
+Fifst you select how many Disease you want to Predict.
